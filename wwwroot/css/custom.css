@@ -1,0 +1,39 @@
+﻿#profile-image {
+    width: 500px;
+    border-radius: 50%;
+    margin-top: 2rem;
+    border: 3px solid black;
+}
+
+.description-container {
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.description-container h1{
+    margin-bottom: 2rem;
+}
+
+.description-container p {
+    font-familyL: sans-sherif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
+
+#dotnet-image {
+    width: 500px;
+}
+
+.col-header {
+    font-weight: bold;
+}
+
+.column ul {
+    list-style: none;
+    text-align: center;
+}
+
+.column i {
+    font-size: 50px;
+    color: #0d6efd
+}
